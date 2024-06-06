@@ -1,2 +1,2 @@
-# yaroslav_repository
-Сайт-визика на HTML + CSS + JS
+# Сайт визитка HTML, CSS
+
